@@ -1,0 +1,100 @@
+{
+  "total_attempts": 10,
+  "successes": 0,
+  "failures": 10,
+  "success_rate": "0%",
+  "goal_met": false,
+  "headless": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "success": false,
+      "token": null,
+      "message": null,
+      "error": "Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"iframe[src*='turnstile'], iframe[src*='challenges.cloudflare.com']\") to be visible\n",
+      "video_path": "videos/attempt_01.webm",
+      "timestamp": "2026-03-16T00:52:08.013363"
+    },
+    {
+      "attempt": 2,
+      "success": false,
+      "token": null,
+      "message": null,
+      "error": "Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"iframe[src*='turnstile'], iframe[src*='challenges.cloudflare.com']\") to be visible\n",
+      "video_path": "videos/attempt_02.webm",
+      "timestamp": "2026-03-16T00:52:32.264730"
+    },
+    {
+      "attempt": 3,
+      "success": false,
+      "token": null,
+      "message": null,
+      "error": "Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"iframe[src*='turnstile'], iframe[src*='challenges.cloudflare.com']\") to be visible\n",
+      "video_path": "videos/attempt_03.webm",
+      "timestamp": "2026-03-16T00:52:54.241070"
+    },
+    {
+      "attempt": 4,
+      "success": false,
+      "token": null,
+      "message": null,
+      "error": "Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"iframe[src*='turnstile'], iframe[src*='challenges.cloudflare.com']\") to be visible\n",
+      "video_path": "videos/attempt_04.webm",
+      "timestamp": "2026-03-16T00:53:15.636452"
+    },
+    {
+      "attempt": 5,
+      "success": false,
+      "token": null,
+      "message": null,
+      "error": "Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"iframe[src*='turnstile'], iframe[src*='challenges.cloudflare.com']\") to be visible\n",
+      "video_path": "videos/attempt_05.webm",
+      "timestamp": "2026-03-16T00:53:37.493715"
+    },
+    {
+      "attempt": 6,
+      "success": false,
+      "token": null,
+      "message": null,
+      "error": "Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"iframe[src*='turnstile'], iframe[src*='challenges.cloudflare.com']\") to be visible\n",
+      "video_path": "videos/attempt_06.webm",
+      "timestamp": "2026-03-16T00:53:59.397721"
+    },
+    {
+      "attempt": 7,
+      "success": false,
+      "token": null,
+      "message": null,
+      "error": "Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"iframe[src*='turnstile'], iframe[src*='challenges.cloudflare.com']\") to be visible\n",
+      "video_path": "videos/attempt_07.webm",
+      "timestamp": "2026-03-16T00:54:20.781676"
+    },
+    {
+      "attempt": 8,
+      "success": false,
+      "token": null,
+      "message": null,
+      "error": "Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"iframe[src*='turnstile'], iframe[src*='challenges.cloudflare.com']\") to be visible\n",
+      "video_path": "videos/attempt_08.webm",
+      "timestamp": "2026-03-16T00:54:42.640543"
+    },
+    {
+      "attempt": 9,
+      "success": false,
+      "token": null,
+      "message": null,
+      "error": "Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"iframe[src*='turnstile'], iframe[src*='challenges.cloudflare.com']\") to be visible\n",
+      "video_path": "videos/attempt_09.webm",
+      "timestamp": "2026-03-16T00:55:04.617677"
+    },
+    {
+      "attempt": 10,
+      "success": false,
+      "token": null,
+      "message": null,
+      "error": "Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"iframe[src*='turnstile'], iframe[src*='challenges.cloudflare.com']\") to be visible\n",
+      "video_path": "videos/attempt_10.webm",
+      "timestamp": "2026-03-16T00:55:26.064770"
+    }
+  ]
+}

@@ -12,3 +12,14 @@ Help me build a clean Python automation script for this DOM scraping task. The s
 Please organize the code into clear functions and explain the purpose of each part so I can review and understand it.
 
 
+## Task 1 
+AI assistance was used during development to help structure parts of the implementation and improve code organization. The final solution was reviewed, tested, and run locally before submission.
+
+The prompt : Help me build a clean Python automation script for : Automation - Stealth Assessment
+* Using python playwright, Go to link __https://cd.captchaaiplus.com/turnstile.html__
+* Ensure to get verified (success!) for the captcha (turnstile) click submit and get the success final message and print the turnstile token
+   1. Do in playwright headless (true and false)
+* Retry 10 times for the same process and get the final success rate (at least 60%) 
+   1. Screen record a video of ten attempts with the required success rate
+
+   what topics should I know ?

@@ -3,6 +3,12 @@
 I used AI to review my architecture after learning the basics of RabbitMQ and system design. I specifically asked for help validating the diagram structure, identifying missing components, and improving the explanation for the README.
 
 ## Task 3 prompt
-I need the python script used for this task as I should hand it to my company so make  afile with clean code functions that does that task and please explain every line and what it does
+Help me build a clean Python automation script for this DOM scraping task. The script should:
+- open the target page in a real browser
+- scrape all image elements and save them as base64 in allimages.json
+- scrape only human-visible images and save them in visible_images_only.json
+- scrape visible text instructions and save them to a text file
+
+Please organize the code into clear functions and explain the purpose of each part so I can review and understand it.
 
 
